@@ -27,6 +27,9 @@ Use these sources:
 - `notes/mona-notes.md`
 - GitHub Blog: https://github.blog/latest/
 - GitHub Changelog: https://github.blog/changelog/
+- awesome-copilot workflows: https://awesome-copilot.github.com/workflows/
+
+Tell the agent to web fetch https://awesome-copilot.github.com/workflows/ and include concise source context when content comes from the GitHub Blog, GitHub Changelog, or awesome-copilot workflows.
 
 Update `site/content/github-info.md` with concise, practical updates for readers and include source context when content comes from the GitHub Blog or GitHub Changelog.
 
