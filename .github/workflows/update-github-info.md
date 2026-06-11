@@ -33,5 +33,7 @@ Use these sources:
 Tell the agent to web fetch https://awesome-copilot.github.com/workflows/ and include concise source context when content comes from the GitHub Blog, GitHub Changelog, or awesome-copilot workflows.
 
 Update `site/content/github-info.md` with concise, practical updates for readers and include source context when content comes from the GitHub Blog, GitHub Changelog, or awesome-copilot workflows.
-
+ 
 Open a pull request for Mona to review. Use a pull request title that mentions Mona or GitHub Info. Do not write directly to `main`; rely on `safe-outputs` with `create-pull-request`.
+
+
