@@ -17,3 +17,7 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 
 ## Latest GitHub Updates
 - GitHub now supports updated branch protection checks for workflow security.
+
+## Latest GitHub Updates
+
+- GitHub Actions workflows are now aligned with the latest main branch updates.
